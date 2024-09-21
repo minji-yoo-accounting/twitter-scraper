@@ -1,4 +1,4 @@
-This repository contains the Twitter scraper I used for my dissertation, "Information Sharing for Validation: Evidence from Social Networks."
+This repository contains the Twitter scraper I used for my dissertation, **"Information Sharing for Validation: Evidence from Social Networks."**
 
 The scraper includes four main functions:
 
