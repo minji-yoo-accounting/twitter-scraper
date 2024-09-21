@@ -2,10 +2,10 @@ This repository contains the Twitter scraper I used for my dissertation, **"Info
 
 The scraper includes four main functions:
 
-- scrape_request: Extracts the user tag, ID, main post, and the number of replies, retweets, and likes based on a search query.
-- scrape_replies: Extracts the user tag, ID, main post, and the number of replies, retweets, and likes of the replies, using the ID of the original post.
-- scrape_retweeters: Extracts a list of retweeters of a post, using the ID of the original post.
-- scrape_likers: Extracts a list of likers of a post, using the ID of the original post.
+- 'scrape_request': Extracts the user tag, ID, main post, and the number of replies, retweets, and likes based on a search query.
+- 'scrape_replies': Extracts the user tag, ID, main post, and the number of replies, retweets, and likes of the replies, using the ID of the original post.
+- 'scrape_retweeters': Extracts a list of retweeters of a post, using the ID of the original post.
+- 'scrape_likers': Extracts a list of likers of a post, using the ID of the original post.
 
 **Legal Disclaimer**: The author complied with X.com (Twitter)'s code of conduct during the web scraping process. Posts are collected using the log-in information of the author's verified X.com account, respecting the daily user view limit (10,000 posts per day for a premium user.) The paper does not make use of any personally identifiable information or copyright-protected content.
 
